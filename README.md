@@ -127,15 +127,14 @@ python env_check.py
 
 Paste your terminal output here:
 
+<img width="498" height="90" alt="ship0 output screenshot" src="https://github.com/user-attachments/assets/d46bf5ff-b5fe-4941-8702-6c6bb7cdf9ca" />
+
+```
+Run Output:
 Name: Yashasree Gadipalli
 Python: 3.13.5
 NumPy: 2.3.3
 Goal: I hope to learn and build small AI tools in my first semester.
-
-<img width="498" height="90" alt="ship0 output screenshot" src="https://github.com/user-attachments/assets/d46bf5ff-b5fe-4941-8702-6c6bb7cdf9ca" />
-
-```
-<Run Output: paste the lines printed by env_check.py>
 ```
 
 ---
